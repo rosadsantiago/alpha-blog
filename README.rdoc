@@ -1,1 +1,1 @@
-This is the respository for the forst alpha-blog app of the Complete ruby on RRails Developer Course.
+This is the respository for the alpha-blog app from the Complete ruby on RRails Developer Course.
